@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/0/a7a2cf3b19b14f84b608dbeef98b793e/artifacts
+end_time: 1758904484859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7a2cf3b19b14f84b608dbeef98b793e
+run_name: bedecked-lynx-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758904484825
+status: 3
+tags: []
+user_id: codespace
