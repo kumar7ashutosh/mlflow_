@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/144556313192321212/634a4281a66b4beaae4cd4f7bfdfdedb/artifacts
+end_time: 1758957859535
+entry_point_name: ''
+experiment_id: '144556313192321212'
+lifecycle_stage: active
+run_id: 634a4281a66b4beaae4cd4f7bfdfdedb
+run_name: gaudy-flea-736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758957856326
+status: 3
+tags: []
+user_id: codespace

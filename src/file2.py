@@ -7,6 +7,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score,confusion_matrix
 import matplotlib.pyplot as plt
 import seaborn as sns
+import dagshub
+dagshub.init(repo_owner='kumarashutoshbtech2023', repo_name='mlflow_', mlflow=True)
+mlflow.set_tracking_uri('https://dagshub.com/kumarashutoshbtech2023/mlflow_.mlflow')
 from mlflow.models.signature import infer_signature
 wine=load_wine()
 x=wine.data
@@ -39,4 +42,4 @@ with mlflow.start_run():
     mlflow.log_artifact("Confusion-matrix.png") 
     mlflow.log_artifact(__file__)
 
-    mlflow.sklearn.log_model(sk_model=rf, name="Random-Forest-Model", input_example=ip_example,signature=signature)
+    # mlflow.sklearn.log_model(sk_model=rf, name="Random-Forest-Model", input_example=ip_example,signature=signature)

@@ -39,4 +39,4 @@ with mlflow.start_run():
     mlflow.log_artifact("Confusion-matrix.png") 
     mlflow.log_artifact(__file__)
 
-    mlflow.sklearn.log_model(sk_model=rf, name="Random-Forest-Model", input_example=ip_example,signature=signature)
+    mlflow.sklearn.log_model(sk_model=rf, artifact_path="Random-Forest-Model", input_example=ip_example,signature=signature)

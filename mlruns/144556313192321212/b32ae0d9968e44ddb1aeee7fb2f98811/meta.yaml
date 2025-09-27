@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/144556313192321212/b32ae0d9968e44ddb1aeee7fb2f98811/artifacts
+end_time: 1758958369650
+entry_point_name: ''
+experiment_id: '144556313192321212'
+lifecycle_stage: active
+run_id: b32ae0d9968e44ddb1aeee7fb2f98811
+run_name: amazing-hound-330
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758958366480
+status: 3
+tags: []
+user_id: codespace

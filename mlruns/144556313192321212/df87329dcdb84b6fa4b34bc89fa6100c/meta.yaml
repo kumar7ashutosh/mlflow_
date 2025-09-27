@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/144556313192321212/df87329dcdb84b6fa4b34bc89fa6100c/artifacts
+end_time: 1758958341178
+entry_point_name: ''
+experiment_id: '144556313192321212'
+lifecycle_stage: active
+run_id: df87329dcdb84b6fa4b34bc89fa6100c
+run_name: bold-foal-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758958337974
+status: 3
+tags: []
+user_id: codespace

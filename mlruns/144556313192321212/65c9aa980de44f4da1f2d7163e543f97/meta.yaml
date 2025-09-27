@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/144556313192321212/65c9aa980de44f4da1f2d7163e543f97/artifacts
+end_time: 1758954073325
+entry_point_name: ''
+experiment_id: '144556313192321212'
+lifecycle_stage: active
+run_id: 65c9aa980de44f4da1f2d7163e543f97
+run_name: masked-roo-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758954067466
+status: 3
+tags: []
+user_id: codespace
