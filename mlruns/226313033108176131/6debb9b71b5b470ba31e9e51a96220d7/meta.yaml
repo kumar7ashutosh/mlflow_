@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/226313033108176131/6debb9b71b5b470ba31e9e51a96220d7/artifacts
+end_time: 1758999572540
+entry_point_name: ''
+experiment_id: '226313033108176131'
+lifecycle_stage: active
+run_id: 6debb9b71b5b470ba31e9e51a96220d7
+run_name: clumsy-yak-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758999572528
+status: 3
+tags: []
+user_id: codespace

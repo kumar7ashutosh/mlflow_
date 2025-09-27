@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/226313033108176131/4a95462fbd6049579dc274f6257144a9/artifacts
+end_time: 1758999572364
+entry_point_name: ''
+experiment_id: '226313033108176131'
+lifecycle_stage: active
+run_id: 4a95462fbd6049579dc274f6257144a9
+run_name: wistful-newt-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758999572351
+status: 3
+tags: []
+user_id: codespace

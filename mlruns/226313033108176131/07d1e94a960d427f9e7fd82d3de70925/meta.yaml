@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/226313033108176131/07d1e94a960d427f9e7fd82d3de70925/artifacts
+end_time: 1758999572499
+entry_point_name: ''
+experiment_id: '226313033108176131'
+lifecycle_stage: active
+run_id: 07d1e94a960d427f9e7fd82d3de70925
+run_name: debonair-cat-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758999572484
+status: 3
+tags: []
+user_id: codespace

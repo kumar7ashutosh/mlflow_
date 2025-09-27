@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/226313033108176131/421ba748e0f74a41aef20e7f3e8b796f/artifacts
+end_time: 1758999572410
+entry_point_name: ''
+experiment_id: '226313033108176131'
+lifecycle_stage: active
+run_id: 421ba748e0f74a41aef20e7f3e8b796f
+run_name: mercurial-midge-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758999572394
+status: 3
+tags: []
+user_id: codespace

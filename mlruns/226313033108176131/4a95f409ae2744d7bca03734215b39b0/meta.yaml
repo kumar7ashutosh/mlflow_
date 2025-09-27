@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/226313033108176131/4a95f409ae2744d7bca03734215b39b0/artifacts
+end_time: 1758999572378
+entry_point_name: ''
+experiment_id: '226313033108176131'
+lifecycle_stage: active
+run_id: 4a95f409ae2744d7bca03734215b39b0
+run_name: incongruous-foal-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758999572366
+status: 3
+tags: []
+user_id: codespace

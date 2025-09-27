@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/226313033108176131/a3009ad022db48848a6b7b2b1b2672a8/artifacts
+end_time: 1758999572468
+entry_point_name: ''
+experiment_id: '226313033108176131'
+lifecycle_stage: active
+run_id: a3009ad022db48848a6b7b2b1b2672a8
+run_name: secretive-cow-510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758999572456
+status: 3
+tags: []
+user_id: codespace

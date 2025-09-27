@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/471478716849724945/ec3016e1a90a45f2b4b19f3cf68a74f1/artifacts
+deleted_time: 1758999624552
+end_time: 1758999230551
+entry_point_name: ''
+experiment_id: '471478716849724945'
+lifecycle_stage: deleted
+run_id: ec3016e1a90a45f2b4b19f3cf68a74f1
+run_name: burly-ox-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758999222798
+status: 4
+tags: []
+user_id: codespace

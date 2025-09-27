@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/226313033108176131/7c8e6d0239d94bc78627c765d5a9e57b/artifacts
+end_time: 1758999572482
+entry_point_name: ''
+experiment_id: '226313033108176131'
+lifecycle_stage: active
+run_id: 7c8e6d0239d94bc78627c765d5a9e57b
+run_name: spiffy-fowl-459
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758999572470
+status: 3
+tags: []
+user_id: codespace

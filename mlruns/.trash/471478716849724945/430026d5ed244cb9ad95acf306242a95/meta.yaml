@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/471478716849724945/430026d5ed244cb9ad95acf306242a95/artifacts
+deleted_time: 1758999624552
+end_time: 1758999268170
+entry_point_name: ''
+experiment_id: '471478716849724945'
+lifecycle_stage: deleted
+run_id: 430026d5ed244cb9ad95acf306242a95
+run_name: aged-dolphin-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758999260541
+status: 4
+tags: []
+user_id: codespace

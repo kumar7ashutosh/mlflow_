@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/226313033108176131/66be642afa654a64be0904123a81e720/artifacts
+end_time: 1758999572526
+entry_point_name: ''
+experiment_id: '226313033108176131'
+lifecycle_stage: active
+run_id: 66be642afa654a64be0904123a81e720
+run_name: mercurial-swan-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758999572514
+status: 3
+tags: []
+user_id: codespace
