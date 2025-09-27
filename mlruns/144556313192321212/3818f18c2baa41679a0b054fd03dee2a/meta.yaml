@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlflow_/mlruns/144556313192321212/3818f18c2baa41679a0b054fd03dee2a/artifacts
+end_time: 1758947536293
+entry_point_name: ''
+experiment_id: '144556313192321212'
+lifecycle_stage: active
+run_id: 3818f18c2baa41679a0b054fd03dee2a
+run_name: calm-jay-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758947530083
+status: 3
+tags: []
+user_id: codespace
